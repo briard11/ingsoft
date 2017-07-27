@@ -25,8 +25,8 @@
 
                 <div class="form-group">
                     <select name="opc" class="form-control ">
-                        <option value="admin">Administrador</option>
-                        <option value="normal">Plebeyo</option>                        
+                        <option value="1">Administrador</option>
+                        <option value="2">Plebeyo</option>                        
                       </select>
                 </div>
         	
