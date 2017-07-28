@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Document</title>
-	<link rel="stylesheet" href="/css/index_style.css">
+	<link rel="stylesheet" href="index_style.css">
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 </head>
@@ -16,11 +16,11 @@
         <form action="logeo.php" method="POST">
         	 <div class="modal-body">
         	    <div class="form-group">
-        	        <input type="text" class="form-control input-lg" placeholder="Username" name="usuario" />
+        	        <input type="text" class="form-control input-lg" placeholder="Username" name="usuario" value="david"/>
         	    </div>
         	
         	    <div class="form-group">
-        	        <input type="password" class="form-control input-lg" placeholder="Password" name="clave" />
+        	        <input type="password" class="form-control input-lg" placeholder="Password" name="clave" value="clave" />
         	    </div>
         	
         	    <div class="form-group">

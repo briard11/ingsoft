@@ -28,7 +28,7 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#tabla">TABLA</a></li>
-        <li><a href="#entradas">ENTRADAS</a></li>
+        <li><a href="#entradas">CONSUMOS</a></li>
         <li><a href="index.php">SALIR</a></li>         
       </ul>
     </div>
@@ -63,7 +63,7 @@
     </div>
     <div class="col-sm-4">
       <h2>Tabla de datos</h2>
-      <h2>Entradas</h2>      
+      <h2>Consumos</h2>      
     </div>
   </div>
 </div>
@@ -72,7 +72,7 @@
     <div class="col-sm-4">
       <h2>Llene los datos</h2>
       <h2>por favor</h2>
-      <h1>ENTRADAS</h1>
+      <h1>CONSUMOS</h1>
     </div>
     <div class="col-sm-8">
       <form action="entradas.php" method="POST">
